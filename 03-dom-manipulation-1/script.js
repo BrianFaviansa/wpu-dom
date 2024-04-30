@@ -1,4 +1,4 @@
-// DOM Manipulayion method
+// DOM Manipulation method
 
 // manipulasi element
 // manipulasi node
